@@ -32,3 +32,7 @@ Provides a framework for computational modeling in biomedical research.
 
 Currently under peer review for publication in the Youth Research Exchange, a student-led research platform.
 
+Authors & Acknowledgements
+Kavin Saravanakumar-Project Lead, Programmer, Developer
+Special thanks to Mr. Prafull Purohit, PhD Researcher in Brookhaven Labratory, who validated my research paper
+Linkedin: https://www.linkedin.com/in/prafull-purohit/
